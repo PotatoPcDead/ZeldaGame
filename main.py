@@ -1,6 +1,5 @@
 # Importing Modules
 import pygame, sys, random, time, os
-
 # General Setups
 os.environ['SDL_VIDEO_CENTERED'] = "1"
 pygame.font.init()
